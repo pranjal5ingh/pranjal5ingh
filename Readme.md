@@ -65,3 +65,9 @@ I believe in strong fundamentals, continuous learning, and writing software that
 <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" height="24px"> 
 <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" height="24px">
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranjal5ingh&show_icons=true&locale=en&layout=compact" alt="pranjal5ingh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranjal5ingh&show_icons=true&locale=en" alt="pranjal5ingh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjal5ingh&" alt="pranjal5ingh" /></p>
