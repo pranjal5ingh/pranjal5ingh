@@ -27,7 +27,6 @@ I believe in strong fundamentals, continuous learning, and writing software that
 </p>
 
 <h2>💻 Tech Stack</h2>
-<h2>💻 Tech Stack</h2>
 <p>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="30px">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30px">
