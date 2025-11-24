@@ -6,6 +6,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranjal5ingh" alt="pranjal5ingh" /></a> </p>
 
+## 👨‍💻 About Me
+
+I’m **Pranjal Singh**, a passionate software developer who enjoys solving real-world problems through clean, efficient, and scalable code. I primarily work with **Java, Spring Boot, and MySQL**, building backend systems that are reliable, secure, and optimized for real-world applications.
+
+Along with backend development, I also develop **Android applications** using **Kotlin**, focusing on clean architecture, modern UI/UX practices, and performance-driven development. Working on both backend and mobile platforms helps me understand the complete lifecycle of real products.
+
+I believe in strong fundamentals, continuous learning, and writing software that stands the test of time. Whether I’m building backend APIs, developing Android apps, or exploring new technologies, my goal is simple — **create meaningful, impactful software that delivers real value.**
+
+
 - 👨‍💻 All of my projects are available at [https://github.com/pranjal5ingh](https://github.com/pranjal5ingh)
 
 - 💬 Ask me about **• Java • Spring Boot • Android Development • Kotlin**
