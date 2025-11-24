@@ -1,4 +1,4 @@
-![logo]([https://github.com/pranjal5ingh/pranjal5ingh/blob/main/Pranjal's%20image.jpeg])
+![logo]([https://github.com/pranjal5ingh/pranjal5ingh/blob/main/Pranjal'simage.jpeg])
 <h1 align="center">Hi 👋, I'm Anand Patel</h1>
 <h3 align="center">A passionate Java full stack developer from India</h3>
 
